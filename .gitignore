@@ -1,3 +1,6 @@
+# Next.js sub-project (has its own git repo)
+fjordanglers/
+
 # dependencies
 node_modules/
 .pnp
